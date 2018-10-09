@@ -3,30 +3,27 @@ img {
 }
 h1 {
     font-family: 'Bai Jamjuree', sans-serif;
-font-family: 'K2D', sans-serif;
-
-
-
+    font-family: 'K2D', sans-serif;
 }
 body {
-font-family: 'oswald', cursive;
+    font-family: 'oswald', cursive;
 }
 h2 {
-font-family: 'Anton', sans-serif;
+    font-family: 'Anton', sans-serif;
 }
 h1 {
-color:red;
+    color:red;
 }
 h2 {
-color:red;
+    color:red;
 }
 h1{
     border:dashed;
 
 }
 body {
-background-image: url("");
-   background-color: #cccccc;
+    background-image: url("http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-08.jpg");
+    background-color: #cccccc;
 }
 body {
     text-align:center;
