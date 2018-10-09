@@ -8,7 +8,7 @@ img:hover {
 
 ul:hover {
     color:red;
-    transition: height 10s;
+    transition: color 10s;
 }    
     
     
